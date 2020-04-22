@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GraphicsXmlBuilder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraphicsXmlBuilder_jar</output-path>
+    <root id="archive" name="GraphicsXmlBuilder.jar">
+      <element id="module-output" name="GraphicsXmlBuilder" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../XMLParser/out/artifacts/XMLParser_jar/XMLParser.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
